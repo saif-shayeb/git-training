@@ -2,3 +2,6 @@ new line
 this is in the new branch
 
 new in progress line
+
+
+adding new line for the rebase example
